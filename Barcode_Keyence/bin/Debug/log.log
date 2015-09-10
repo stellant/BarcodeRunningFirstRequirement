@@ -1,0 +1,1015 @@
+Data will be written to C:\Users\TH303898\Desktop\d.txt     
+
+IP Address is 192.168.1.1
+
+Command Port is 9003
+
+Data Port is 9004
+
+Interface is Ethernet
+
+Reader Type is SR_1000
+
+   at Keyence.AutoID.BarcodeReaderControl.Connect()
+   at Barcode_Keyence.Form1.button_connect_Click(Object sender, EventArgs e) in E:\Projects\Barcode_Keyence\Barcode_Keyence\Form1.cs:line 191
+   09-09-2015 15:23:06:357
+Data will be written to C:\Users\TH303898\Desktop\d.txt     
+
+Command Port is 9003
+
+Data Port is 9004
+
+Interface is Ethernet
+
+Reader Type is SR_1000
+
+   at Keyence.AutoID.BarcodeReaderControl.Connect()
+   at Barcode_Keyence.Form1.button_connect_Click(Object sender, EventArgs e) in D:\Flextronics Softwares and Webservices\Modified\Barcode_Keyence\Barcode_Keyence\Form1.cs:line 232
+   at 09-09-2015 16:00:01:110
+Data will be written to C:\Users\TH303898\Desktop\S.txt     
+
+IP Address is 127.0.0.1
+
+Command Port is 9003
+
+Data Port is 654
+
+Interface is Ethernet
+
+Reader Type is SR_1000
+
+   at Keyence.AutoID.BarcodeReaderControl.Connect()
+   at Barcode_Keyence.Form1.button_connect_Click(Object sender, EventArgs e) in D:\Flextronics Softwares and Webservices\Modified\Barcode_Keyence\Barcode_Keyence\Form1.cs:line 232
+   at 09-09-2015 16:04:52:370
+Data will be written to C:\Users\TH303898\Desktop\t.txt     
+
+IP Address is 192.168.1.1
+
+Command Port is 9003
+
+Data Port is 9004
+
+Interface is Ethernet
+
+Reader Type is SR_1000
+
+   at Keyence.AutoID.BarcodeReaderControl.Connect()
+   at Barcode_Keyence.Form1.button_connect_Click(Object sender, EventArgs e) in D:\Flextronics Softwares and Webservices\Modified\Barcode_Keyence\Barcode_Keyence\Form1.cs:line 232
+   at 09-09-2015 16:57:00:277
+Data will be written to C:\Users\TH303898\Desktop\s.txt     
+
+IP Address is 192.168.1.1
+
+Command Port is 9003
+
+Data Port is 9004
+
+Interface is Ethernet
+
+Reader Type is SR_1000
+
+   at Keyence.AutoID.BarcodeReaderControl.Connect()
+   at Barcode_Keyence.Form1.button_connect_Click(Object sender, EventArgs e) in D:\Flextronics Softwares and Webservices\Modified\Barcode_Keyence\Barcode_Keyence\Form1.cs:line 232
+   at 09-09-2015 16:58:50:903
+Data will be written to C:\Users\TH303898\Desktop\asas.txt     
+
+IP Address is 192.168.1.1
+
+Command Port is 9003
+
+Data Port is 9004
+
+Interface is Ethernet
+
+Reader Type is SR_1000
+
+   at Keyence.AutoID.BarcodeReaderControl.Connect()
+   at Barcode_Keyence.Form1.button_connect_Click(Object sender, EventArgs e) in C:\Users\TH303898\Downloads\Barcode_Keyence-master\Barcode_Keyence-master\Barcode_Keyence\Barcode_Keyence\Form1.cs:line 237
+   at 09-09-2015 17:09:00:943
+Data will be written to C:\Users\TH303898\Desktop\sasas.txt     
+
+IP Address is 192.168.1.1
+
+Command Port is 9003
+
+Data Port is 9004
+
+Interface is Ethernet
+
+Reader Type is SR_1000
+
+   at Keyence.AutoID.BarcodeReaderControl.Connect()
+   at Barcode_Keyence.Form1.button_connect_Click(Object sender, EventArgs e) in C:\Users\TH303898\Downloads\Barcode_Keyence-master\Barcode_Keyence-master\Barcode_Keyence\Barcode_Keyence\Form1.cs:line 237
+   at 09-09-2015 17:09:06:064
+Data will be written to C:\Users\TH303898\Desktop\s.txt     
+
+IP Address is 192.168.1.1
+
+Command Port is 9003
+
+Data Port is 9004
+
+Interface is Ethernet
+
+Reader Type is SR_1000
+
+   at Keyence.AutoID.BarcodeReaderControl.Connect()
+   at Barcode_Keyence.Form1.button_connect_Click(Object sender, EventArgs e) in C:\Users\TH303898\Downloads\Barcode_Keyence-master\Barcode_Keyence-master\Barcode_Keyence\Barcode_Keyence\Form1.cs:line 237
+   at 09-09-2015 17:30:25:390
+Data will be written to C:\Users\TH303898\Desktop\dsds.txt     
+
+IP Address is 192.168.1.1
+
+Command Port is 9003
+
+Data Port is 9004
+
+Interface is Ethernet
+
+Reader Type is SR_1000
+
+   at Keyence.AutoID.BarcodeReaderControl.Connect()
+   at Barcode_Keyence.Form1.button_connect_Click(Object sender, EventArgs e) in C:\Users\TH303898\Downloads\Barcode_Keyence-master\Barcode_Keyence-master\Barcode_Keyence\Barcode_Keyence\Form1.cs:line 238
+   at 09-09-2015 17:31:37:854
+Data will be written to C:\Users\TH303898\Desktop\f.txt     
+
+IP Address is 192.168.1.1
+
+Command Port is 9003
+
+Data Port is 9004
+
+Interface is Ethernet
+
+Reader Type is SR_1000
+
+   at Keyence.AutoID.BarcodeReaderControl.Connect()
+   at Barcode_Keyence.Form1.button_connect_Click(Object sender, EventArgs e) in C:\Users\TH303898\Downloads\Barcode_Keyence-master\Barcode_Keyence-master\Barcode_Keyence\Barcode_Keyence\Form1.cs:line 238
+   at 09-09-2015 17:32:21:614
+Data will be written to C:\Users\TH303898\Desktop\d.txt     
+
+IP Address is 192.168.1.1
+
+Command Port is 9003
+
+Data Port is 9004
+
+Interface is Ethernet
+
+Reader Type is SR_1000
+
+   at Keyence.AutoID.BarcodeReaderControl.Connect()
+   at Barcode_Keyence.Form1.button_connect_Click(Object sender, EventArgs e) in C:\Users\TH303898\Downloads\Barcode_Keyence-master\Barcode_Keyence-master\Barcode_Keyence\Barcode_Keyence\Form1.cs:line 238
+   at 09-09-2015 17:32:26:250
+Data will be written to C:\Users\TH303898\Desktop\s.txt     
+
+IP Address is 192.168.1.1
+
+Command Port is 9003
+
+Data Port is 9004
+
+Interface is Ethernet
+
+Reader Type is SR_1000
+
+   at Keyence.AutoID.BarcodeReaderControl.Connect()
+   at Barcode_Keyence.Form1.button_connect_Click(Object sender, EventArgs e) in C:\Users\TH303898\Downloads\Barcode_Keyence-master\Barcode_Keyence-master\Barcode_Keyence\Barcode_Keyence\Form1.cs:line 238
+   at 09-09-2015 17:32:35:524
+Data will be written to C:\Users\TH303898\Desktop\d.txt     
+
+IP Address is 192.168.1.1
+
+Command Port is 9003
+
+Data Port is 9004
+
+Interface is Ethernet
+
+Reader Type is SR_1000
+
+   at Keyence.AutoID.BarcodeReaderControl.Connect()
+   at Barcode_Keyence.Form1.button_connect_Click(Object sender, EventArgs e) in C:\Users\TH303898\Downloads\Barcode_Keyence-master\Barcode_Keyence-master\Barcode_Keyence\Barcode_Keyence\Form1.cs:line 238
+   at 09-09-2015 17:33:21:671
+Data will be written to C:\Users\TH303898\Desktop\s.txt     
+
+IP Address is 192.168.1.1
+
+Command Port is 9003
+
+Data Port is 9004
+
+Interface is Ethernet
+
+Reader Type is SR_1000
+
+   at Keyence.AutoID.BarcodeReaderControl.Connect()
+   at Barcode_Keyence.Form1.button_connect_Click(Object sender, EventArgs e) in C:\Users\TH303898\Downloads\Barcode_Keyence-master\Barcode_Keyence-master\Barcode_Keyence\Barcode_Keyence\Form1.cs:line 238
+   at 09-09-2015 17:33:28:099
+Data will be written to C:\Users\TH303898\Desktop\s.txt     
+
+IP Address is 192.168.1.1
+
+Command Port is 9003
+
+Data Port is 9004
+
+Interface is Ethernet
+
+Reader Type is SR_1000
+
+   at Keyence.AutoID.BarcodeReaderControl.Connect()
+   at Barcode_Keyence.Form1.button_connect_Click(Object sender, EventArgs e) in C:\Users\TH303898\Downloads\Barcode_Keyence-master\Barcode_Keyence-master\Barcode_Keyence\Barcode_Keyence\Form1.cs:line 242
+   at 09-09-2015 17:38:28:626
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Keyence.AutoID.BarcodeReaderControl.Disconnect()
+   at Barcode_Keyence.Form1.button_close_Click(Object sender, EventArgs e) in C:\Users\TH303898\Downloads\Barcode_Keyence-master\Barcode_Keyence-master\Barcode_Keyence\Barcode_Keyence\Form1.cs:line 311
+   at 09-09-2015 17:49:53:491
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Keyence.AutoID.BarcodeReaderControl.Disconnect()
+   at Barcode_Keyence.Form1.button_close_Click(Object sender, EventArgs e) in C:\Users\TH303898\Downloads\Barcode_Keyence-master\Barcode_Keyence-master\Barcode_Keyence\Barcode_Keyence\Form1.cs:line 311
+   at 09-09-2015 17:49:56:675
+Data will be written to C:\Users\TH303898\Desktop\sa.txt     
+
+IP Address is 192.168.1.1
+
+Command Port is 9003
+
+Data Port is 9004
+
+Interface is Ethernet
+
+Reader Type is SR_1000
+
+Keyence.AutoID.CommunicationException: Communication error
+   at Keyence.AutoID.BarcodeReaderControl.Connect()
+   at Barcode_Keyence.Form1.button_connect_Click(Object sender, EventArgs e) in C:\Users\TH303898\Downloads\Barcode_Keyence-master\Barcode_Keyence-master\Barcode_Keyence\Barcode_Keyence\Form1.cs:line 246
+   at 09-09-2015 17:59:12:909
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Keyence.AutoID.BarcodeReaderControl.Disconnect()
+   at Barcode_Keyence.Form1.button_close_Click(Object sender, EventArgs e) in C:\Users\TH303898\Downloads\Barcode_Keyence-master\Barcode_Keyence-master\Barcode_Keyence\Barcode_Keyence\Form1.cs:line 311
+   at 09-09-2015 17:59:24:825
+Data will be written to C:\Users\TH303898\Desktop\t.txt     
+
+IP Address is 192.168.1.1
+
+Command Port is 9003
+
+Data Port is 9004
+
+Interface is Ethernet
+
+Reader Type is SR_1000
+
+Keyence.AutoID.CommunicationException: Communication error
+   at Keyence.AutoID.BarcodeReaderControl.Connect()
+   at Barcode_Keyence.Form1.button_connect_Click(Object sender, EventArgs e) in C:\Users\TH303898\Downloads\Barcode_Keyence-master\Barcode_Keyence-master\Barcode_Keyence\Barcode_Keyence\Form1.cs:line 246
+   at 09-09-2015 18:01:17:072
+Data will be written to C:\Users\TH303898\Desktop\fdf.txt     
+
+IP Address is 192.168.1.1
+
+Command Port is 9003
+
+Data Port is 9004
+
+Interface is Ethernet
+
+Reader Type is SR_1000
+
+Keyence.AutoID.CommunicationException: Communication error
+   at Keyence.AutoID.BarcodeReaderControl.Connect()
+   at Barcode_Keyence.Form1.button_connect_Click(Object sender, EventArgs e) in C:\Users\TH303898\Downloads\Barcode_Keyence-master\Barcode_Keyence-master\Barcode_Keyence\Barcode_Keyence\Form1.cs:line 250
+   at 09-09-2015 18:09:07:919
+Data will be written to C:\Users\TH303898\Desktop\fdf.txt     
+
+IP Address is 192.168.1.1
+
+Command Port is 9003
+
+Data Port is 9004
+
+Interface is Ethernet
+
+Reader Type is SR_1000
+
+Keyence.AutoID.CommunicationException: Communication error
+   at Keyence.AutoID.BarcodeReaderControl.Connect()
+   at Barcode_Keyence.Form1.button_connect_Click(Object sender, EventArgs e) in C:\Users\TH303898\Downloads\Barcode_Keyence-master\Barcode_Keyence-master\Barcode_Keyence\Barcode_Keyence\Form1.cs:line 250
+   at 09-09-2015 18:09:21:445
+Data will be written to C:\Users\TH303898\Desktop\s.txt     
+
+IP Address is 192.168.1.1
+
+Command Port is 9003
+
+Data Port is 9004
+
+Interface is Ethernet
+
+Reader Type is SR_1000
+
+Keyence.AutoID.CommunicationException: Communication error
+   at Keyence.AutoID.BarcodeReaderControl.Connect()
+   at Barcode_Keyence.Form1.button_connect_Click(Object sender, EventArgs e) in C:\Users\TH303898\Downloads\Barcode_Keyence-master\Barcode_Keyence-master\Barcode_Keyence\Barcode_Keyence\Form1.cs:line 250
+   at 09-09-2015 18:10:07:616
+Data will be written to C:\Users\TH303898\Desktop\fdf.txt     
+
+IP Address is 192.168.1.1
+
+Command Port is 9003
+
+Data Port is 9004
+
+Interface is Ethernet
+
+Reader Type is SR_1000
+
+Keyence.AutoID.CommunicationException: Communication error
+   at Keyence.AutoID.BarcodeReaderControl.Connect()
+   at Barcode_Keyence.Form1.button_connect_Click(Object sender, EventArgs e) in C:\Users\TH303898\Downloads\Barcode_Keyence-master\Barcode_Keyence-master\Barcode_Keyence\Barcode_Keyence\Form1.cs:line 252
+   at 09-09-2015 18:11:27:949
+Data will be written to C:\Users\TH303898\Desktop\fdf.txt     
+
+IP Address is 192.168.1.1
+
+Command Port is 9003
+
+Data Port is 9004
+
+Interface is Ethernet
+
+Reader Type is SR_1000
+
+Keyence.AutoID.CommunicationException: Communication error
+   at Keyence.AutoID.BarcodeReaderControl.Connect()
+   at Barcode_Keyence.Form1.button_connect_Click(Object sender, EventArgs e) in C:\Users\TH303898\Downloads\Barcode_Keyence-master\Barcode_Keyence-master\Barcode_Keyence\Barcode_Keyence\Form1.cs:line 301
+   at 09-09-2015 18:12:36:679
+IP Address is 192.168.1.1
+
+Command Port is 9003
+
+Data Port is 9004
+
+Interface is Ethernet
+
+Reader Type is SR_1000
+
+Keyence.AutoID.CommunicationException: Communication error
+   at Keyence.AutoID.BarcodeReaderControl.Connect()
+   at Barcode_Keyence.Form1.button_connect_Click(Object sender, EventArgs e) in C:\Users\TH303898\Downloads\Barcode_Keyence-master\Barcode_Keyence-master\Barcode_Keyence\Barcode_Keyence\Form1.cs:line 241
+   at 09-09-2015 18:12:41:388
+IP Address is 192.168.1.1
+
+Command Port is 9003
+
+Data Port is 9004
+
+Interface is Ethernet
+
+Reader Type is SR_1000
+
+Keyence.AutoID.CommunicationException: Communication error
+   at Keyence.AutoID.BarcodeReaderControl.Connect()
+   at Barcode_Keyence.Form1.button_connect_Click(Object sender, EventArgs e) in C:\Users\TH303898\Downloads\Barcode_Keyence-master\Barcode_Keyence-master\Barcode_Keyence\Barcode_Keyence\Form1.cs:line 241
+   at 09-09-2015 18:12:43:753
+Data will be written to C:\Users\TH303898\Desktop\fdf.txt     
+
+IP Address is 192.168.1.1
+
+Command Port is 9003
+
+Data Port is 9004
+
+Interface is Ethernet
+
+Reader Type is SR_1000
+
+Keyence.AutoID.CommunicationException: Communication error
+   at Keyence.AutoID.BarcodeReaderControl.Connect()
+   at Barcode_Keyence.Form1.button_connect_Click(Object sender, EventArgs e) in C:\Users\TH303898\Downloads\Barcode_Keyence-master\Barcode_Keyence-master\Barcode_Keyence\Barcode_Keyence\Form1.cs:line 301
+   at 09-09-2015 18:13:14:256
+IP Address is 192.168.1.1
+
+Command Port is 9003
+
+Data Port is 9004
+
+Interface is Ethernet
+
+Reader Type is SR_1000
+
+Keyence.AutoID.CommunicationException: Communication error
+   at Keyence.AutoID.BarcodeReaderControl.Connect()
+   at Barcode_Keyence.Form1.button_connect_Click(Object sender, EventArgs e) in C:\Users\TH303898\Downloads\Barcode_Keyence-master\Barcode_Keyence-master\Barcode_Keyence\Barcode_Keyence\Form1.cs:line 241
+   at 09-09-2015 18:13:17:363
+IP Address is 192.168.1.1
+
+Command Port is 9003
+
+Data Port is 9004
+
+Interface is Ethernet
+
+Reader Type is SR_1000
+
+Keyence.AutoID.CommunicationException: Communication error
+   at Keyence.AutoID.BarcodeReaderControl.Connect()
+   at Barcode_Keyence.Form1.button_connect_Click(Object sender, EventArgs e) in C:\Users\TH303898\Downloads\Barcode_Keyence-master\Barcode_Keyence-master\Barcode_Keyence\Barcode_Keyence\Form1.cs:line 241
+   at 09-09-2015 18:13:20:271
+Data will be written to C:\Users\TH303898\Desktop\fdf.txt     
+
+IP Address is 192.168.1.1
+
+Command Port is 9003
+
+Data Port is 9004
+
+Interface is Ethernet
+
+Reader Type is SR_1000
+
+Keyence.AutoID.CommunicationException: Communication error
+   at Keyence.AutoID.BarcodeReaderControl.Connect()
+   at Barcode_Keyence.Form1.Connect() in C:\Users\TH303898\Downloads\Barcode_Keyence-master\Barcode_Keyence-master\Barcode_Keyence\Barcode_Keyence\Form1.cs:line 234
+   at 09-09-2015 18:14:57:808
+IP Address is 192.168.1.1
+
+Command Port is 9003
+
+Data Port is 9004
+
+Interface is Ethernet
+
+Reader Type is SR_1000
+
+Keyence.AutoID.CommunicationException: Communication error
+   at Keyence.AutoID.BarcodeReaderControl.Connect()
+   at Barcode_Keyence.Form1.Connect() in C:\Users\TH303898\Downloads\Barcode_Keyence-master\Barcode_Keyence-master\Barcode_Keyence\Barcode_Keyence\Form1.cs:line 234
+   at 09-09-2015 18:15:01:984
+IP Address is 192.168.1.1
+
+Command Port is 9003
+
+Data Port is 9004
+
+Interface is Ethernet
+
+Reader Type is SR_1000
+
+Keyence.AutoID.CommunicationException: Communication error
+   at Keyence.AutoID.BarcodeReaderControl.Connect()
+   at Barcode_Keyence.Form1.Connect() in C:\Users\TH303898\Downloads\Barcode_Keyence-master\Barcode_Keyence-master\Barcode_Keyence\Barcode_Keyence\Form1.cs:line 234
+   at 09-09-2015 18:15:07:646
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Keyence.AutoID.BarcodeReaderControl.Disconnect()
+   at Barcode_Keyence.Form1.button_close_Click(Object sender, EventArgs e) in C:\Users\TH303898\Downloads\Barcode_Keyence-master\Barcode_Keyence-master\Barcode_Keyence\Barcode_Keyence\Form1.cs:line 322
+   at 09-09-2015 18:29:13:138
+Data will be written to C:\Users\TH303898\Desktop\e.txt     
+
+IP Address is 192.168.1.1
+
+Command Port is 9003
+
+Data Port is 9004
+
+Interface is Ethernet
+
+Reader Type is SR_1000
+
+Keyence.AutoID.CommunicationException: Communication error
+   at Keyence.AutoID.BarcodeReaderControl.Connect()
+   at Barcode_Keyence.Form1.Connect() in C:\Users\TH303898\Downloads\Barcode_Keyence-master\Barcode_Keyence-master\Barcode_Keyence\Barcode_Keyence\Form1.cs:line 235
+   at 09-09-2015 18:31:47:524
+Data will be written to C:\Users\TH303898\Desktop\e.txt     
+
+IP Address is 192.168.1.1
+
+Command Port is 9003
+
+Data Port is 9004
+
+Interface is Ethernet
+
+Reader Type is SR_1000
+
+Keyence.AutoID.CommunicationException: Communication error
+   at Keyence.AutoID.BarcodeReaderControl.Connect()
+   at Barcode_Keyence.Form1.Connect() in C:\Users\TH303898\Downloads\Barcode_Keyence-master\Barcode_Keyence-master\Barcode_Keyence\Barcode_Keyence\Form1.cs:line 235
+   at 09-09-2015 18:31:53:676
+Data will be written to C:\Users\TH303898\Desktop\fdf.txt     
+
+IP Address is 192.168.1.1
+
+Command Port is 9003
+
+Data Port is 9004
+
+Interface is Ethernet
+
+Reader Type is SR_1000
+
+Keyence.AutoID.CommunicationException: Communication error
+   at Keyence.AutoID.BarcodeReaderControl.Connect()
+   at Barcode_Keyence.Form1.Connect() in C:\Users\TH303898\Downloads\Barcode_Keyence-master\Barcode_Keyence-master\Barcode_Keyence\Barcode_Keyence\Form1.cs:line 235
+   at 09-09-2015 18:32:03:276
+IP Address is 192.168.1.1
+
+Command Port is 9003
+
+Data Port is 9004
+
+Interface is Ethernet
+
+Reader Type is SR_1000
+
+Keyence.AutoID.CommunicationException: Communication error
+   at Keyence.AutoID.BarcodeReaderControl.Connect()
+   at Barcode_Keyence.Form1.Connect() in C:\Users\TH303898\Downloads\Barcode_Keyence-master\Barcode_Keyence-master\Barcode_Keyence\Barcode_Keyence\Form1.cs:line 235
+   at 09-09-2015 18:32:05:882
+Data will be written to E:\IOT\Flextronics\Thangavel\Barcode_Keyence\Telemetry_Working\Barcode_Keyence\Barcode_Keyence\bin\Debug\output.txt     
+
+IP Address is 192.168.1.1
+
+Command Port is 9004
+
+Data Port is 9004
+
+Interface is Ethernet
+
+Reader Type is SR_1000
+
+Keyence.AutoID.InvalidPropertyException: Invalid property
+   at Keyence.AutoID.BarcodeReaderControl.Connect()
+   at Barcode_Keyence.Form1.Connect() in C:\Users\TH303898\Downloads\Barcode_Keyence-master\Barcode_Keyence-master\Barcode_Keyence\Barcode_Keyence\Form1.cs:line 235
+   at 09-09-2015 11:51:39:174
+Data will be written to E:\IOT\Flextronics\Thangavel\Barcode_Keyence\Telemetry_Working\Barcode_Keyence\Barcode_Keyence\bin\Debug\output.txt     
+
+IP Address is 192.168.1.1
+
+Command Port is 9003
+
+Data Port is 9004
+
+Interface is Ethernet
+
+Reader Type is SR_1000
+
+System.InvalidOperationException: Cross-thread operation not valid: Control 'textBox_status' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.TextBoxBase.GetSelectionStartAndLength(Int32& start, Int32& length)
+   at System.Windows.Forms.TextBoxBase.AppendText(String text)
+   at Barcode_Keyence.Form1.dataReceived(Object sender, OnDataReceivedEventArgs e) in C:\Users\TH303898\Downloads\Barcode_Keyence-master\Barcode_Keyence-master\Barcode_Keyence\Barcode_Keyence\Form1.cs:line 303
+   at 09-09-2015 12:00:04:124
+Data will be written to E:\IOT\Flextronics\Thangavel\Barcode_Keyence\Telemetry_Working\Barcode_Keyence\Barcode_Keyence\bin\Debug\output1.txt     
+
+IP Address is 192.168.1.1
+
+Command Port is 9003
+
+Data Port is 9004
+
+Interface is Ethernet
+
+Reader Type is SR_1000
+
+System.InvalidOperationException: Cross-thread operation not valid: Control 'textBox_status' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.TextBoxBase.GetSelectionStartAndLength(Int32& start, Int32& length)
+   at System.Windows.Forms.TextBoxBase.AppendText(String text)
+   at Barcode_Keyence.Form1.dataReceived(Object sender, OnDataReceivedEventArgs e) in C:\Users\TH303898\Downloads\Barcode_Keyence-master\Barcode_Keyence-master\Barcode_Keyence\Barcode_Keyence\Form1.cs:line 303
+   at 09-09-2015 12:01:22:645
+Data will be written to E:\IOT\Flextronics\Thangavel\Barcode_Keyence\Telemetry_Working\Barcode_Keyence\Barcode_Keyence\bin\Debug\output1.txt     
+
+IP Address is 192.168.1.1
+
+Command Port is 9003
+
+Data Port is 9004
+
+Interface is Ethernet
+
+Reader Type is SR_1000
+
+System.InvalidOperationException: Cross-thread operation not valid: Control 'textBox_status' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.TextBoxBase.GetSelectionStartAndLength(Int32& start, Int32& length)
+   at System.Windows.Forms.TextBoxBase.AppendText(String text)
+   at Barcode_Keyence.Form1.dataReceived(Object sender, OnDataReceivedEventArgs e) in e:\IOT\Flextronics\Thangavel\Barcode_Keyence\Barcode-master\Barcode_Keyence\Barcode_Keyence\Form1.cs:line 303
+   at 09-09-2015 12:06:01:479
+Data will be written to E:\IOT\Flextronics\Thangavel\Barcode_Keyence\Telemetry_Working\Barcode_Keyence\Barcode_Keyence\bin\Debug\output1.txt     
+
+IP Address is 192.168.1.1
+
+Command Port is 9003
+
+Data Port is 9004
+
+Interface is Ethernet
+
+Reader Type is SR_1000
+
+Data will be written to E:\IOT\Flextronics\Thangavel\Barcode_Keyence\Telemetry_Working\Barcode_Keyence\Barcode_Keyence\bin\Debug\output1.txt     
+
+IP Address is 192.168.1.1
+
+Command Port is 9003
+
+Data Port is 9004
+
+Interface is Ethernet
+
+Reader Type is SR_1000
+
+Data will be written to E:\IOT\Flextronics\Thangavel\Barcode_Keyence\Telemetry_Working\Barcode_Keyence\Barcode_Keyence\bin\Debug\output1.txt     
+
+IP Address is 192.168.1.1
+
+Command Port is 9003
+
+Data Port is 9004
+
+Interface is Ethernet
+
+Reader Type is SR_1000
+
+Data will be written to E:\IOT\Flextronics\Thangavel\Barcode_Keyence\Telemetry_Working\Barcode_Keyence\Barcode_Keyence\bin\Debug\New.txt     
+
+IP Address is 192.168.1.1
+
+Command Port is 9003
+
+Data Port is 9004
+
+Interface is Ethernet
+
+Reader Type is SR_1000
+
+Data will be written to C:\Users\ab290966\Desktop\Data.txt     
+
+IP Address is 192.168.1.1
+
+Command Port is 9003
+
+Data Port is 9004
+
+Interface is Ethernet
+
+Reader Type is SR_1000
+
+Data will be written to C:\Users\TH303898\Desktop\output.txt     
+
+IP Address is 192.168.1.1
+
+Command Port is 9003
+
+Data Port is 9004
+
+Interface is Ethernet
+
+Reader Type is SR_1000
+
+Keyence.AutoID.CommunicationException: Communication error
+   at Keyence.AutoID.BarcodeReaderControl.Connect()
+   at Barcode_Keyence.Form1.Connect() in D:\Work\BarcodeRunning-master\BarcodeRunning-master\Barcode_Keyence\Barcode_Keyence\Form1.cs:line 233
+   at 11-09-2015 00:30:53:799
+Choose One File Storing Type...   at11-Sep-2015 00:53:50:080
+
+Data will be written to C:\Users\TH303898\Desktop\d.csv     
+
+IP Address is 192.168.1.1
+
+Command Port is 9003
+
+Data Port is 9004
+
+Interface is Ethernet
+
+Reader Type is SR_1000
+
+Keyence.AutoID.CommunicationException: Communication error
+   at Keyence.AutoID.BarcodeReaderControl.Connect()
+   at Barcode_Keyence.Form1.Connect() in D:\Work\BarcodeRunning-master\BarcodeRunning-master\Barcode_Keyence\Barcode_Keyence\Form1.cs:line 233
+   at 11-09-2015 00:59:58:879
+Data will be written to C:\Users\TH303898\Desktop\d.csv     
+
+IP Address is 192.168.1.1
+
+Command Port is 9003
+
+Data Port is 9004
+
+Interface is Ethernet
+
+Reader Type is SR_1000
+
+Keyence.AutoID.CommunicationException: Communication error
+   at Keyence.AutoID.BarcodeReaderControl.Connect()
+   at Barcode_Keyence.Form1.Connect() in D:\Work\BarcodeRunning-master\BarcodeRunning-master\Barcode_Keyence\Barcode_Keyence\Form1.cs:line 233
+   at 11-09-2015 01:05:21:901
+Data will be written to C:\Users\TH303898\Desktop\d.csv     
+
+IP Address is 192.168.1.1
+
+Command Port is 9003
+
+Data Port is 9004
+
+Interface is Ethernet
+
+Reader Type is SR_1000
+
+Keyence.AutoID.CommunicationException: Communication error
+   at Keyence.AutoID.BarcodeReaderControl.Connect()
+   at Barcode_Keyence.Form1.Connect() in D:\Work\BarcodeRunning-master\BarcodeRunning-master\Barcode_Keyence\Barcode_Keyence\Form1.cs:line 233
+   at 11-09-2015 01:06:59:310
+Data will be written to C:\Users\TH303898\Desktop\d.csv     
+
+Images will be stored to C:\Users\TH303898\Desktop     
+
+Data will be written to C:\Users\TH303898\Desktop\d.csv     
+
+Images will be stored to C:\Users\TH303898\Desktop\Files     
+
+Data will be written to C:\Users\TH303898\Desktop\d.csv     
+
+Images will be stored to C:\Users\TH303898\Desktop     
+
+Data will be written to C:\Users\TH303898\Desktop\d.csv   at11-Sep-2015 01:22:12:761
+
+Images will be stored to C:\Users\TH303898\Desktop   at11-Sep-2015 01:22:18:738
+
+IP Address is 192.168.1.1
+
+Command Port is 9003
+
+Data Port is 9004
+
+Interface is Ethernet
+
+Reader Type is SR_1000
+
+Keyence.AutoID.CommunicationException: Communication error
+   at Keyence.AutoID.BarcodeReaderControl.Connect()
+   at Barcode_Keyence.Form1.Connect() in D:\Work\BarcodeRunning-master\BarcodeRunning-master\Barcode_Keyence\Barcode_Keyence\Form1.cs:line 235
+   at 11-09-2015 01:22:27:182
+Data will be written to C:\Users\TH303898\Desktop\d.csv   at11-Sep-2015 01:23:12:430
+
+Images will be stored to C:\Users\TH303898\Desktop   at11-Sep-2015 01:23:17:098
+
+Choose One File Storing Type...   at11-Sep-2015 01:25:06:820
+
+Data will be written to C:\Users\TH303898\Desktop\d.csv   at11-Sep-2015 01:25:21:407
+
+Images will be stored to C:\Users\TH303898\Desktop\TortoiseSVN-1.8.11.26392-win32-svn-1.8.13.msi   at11-Sep-2015 01:25:27:614
+
+IP Address is 192.168.1.1
+
+Command Port is 9003
+
+Data Port is 9004
+
+Interface is Ethernet
+
+Reader Type is SR_1000
+
+Keyence.AutoID.CommunicationException: Communication error
+   at Keyence.AutoID.BarcodeReaderControl.Connect()
+   at Barcode_Keyence.Form1.Connect() in D:\Work\BarcodeRunning-master\BarcodeRunning-master\Barcode_Keyence\Barcode_Keyence\Form1.cs:line 235
+   at 11-09-2015 01:25:47:745
+IP Address is 192.168.1.1
+
+Command Port is 9003
+
+Data Port is 9004
+
+Interface is Ethernet
+
+Reader Type is SR_1000
+
+Keyence.AutoID.CommunicationException: Communication error
+   at Keyence.AutoID.BarcodeReaderControl.Connect()
+   at Barcode_Keyence.Form1.Connect() in D:\Work\BarcodeRunning-master\BarcodeRunning-master\Barcode_Keyence\Barcode_Keyence\Form1.cs:line 235
+   at 11-09-2015 01:25:54:125
+Data will be written to C:\Users\TH303898\Desktop\d.txt   at11-Sep-2015 01:34:17:154
+
+Images will be stored to C:\Users\TH303898\Desktop   at11-Sep-2015 01:34:25:010
+
+IP Address is 192.168.1.1
+
+Command Port is 9003
+
+Data Port is 9004
+
+Interface is Ethernet
+
+Reader Type is SR_1000
+
+Keyence.AutoID.CommunicationException: Communication error
+   at Keyence.AutoID.BarcodeReaderControl.Connect()
+   at Barcode_Keyence.Form1.Connect() in D:\Work\BarcodeRunning-master\BarcodeRunning-master\Barcode_Keyence\Barcode_Keyence\Form1.cs:line 240
+   at 11-09-2015 01:34:26:120
+Data will be written to C:\Users\TH303898\Desktop\d.csv   at11-Sep-2015 01:35:12:017
+
+Images will be stored to C:\Users\TH303898\Desktop   at11-Sep-2015 01:35:13:970
+
+IP Address is 192.168.1.1
+
+Command Port is 9003
+
+Data Port is 9004
+
+Interface is Ethernet
+
+Reader Type is SR_1000
+
+Keyence.AutoID.CommunicationException: Communication error
+   at Keyence.AutoID.BarcodeReaderControl.Connect()
+   at Barcode_Keyence.Form1.Connect() in D:\Work\BarcodeRunning-master\BarcodeRunning-master\Barcode_Keyence\Barcode_Keyence\Form1.cs:line 240
+   at 11-09-2015 01:35:15:148
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Keyence.AutoID.BarcodeReaderControl.Disconnect()
+   at Barcode_Keyence.Form1.button_close_Click(Object sender, EventArgs e) in D:\Work\BarcodeRunning-master\BarcodeRunning-master\Barcode_Keyence\Barcode_Keyence\Form1.cs:line 357
+   at 11-09-2015 01:36:36:477
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Keyence.AutoID.BarcodeReaderControl.Disconnect()
+   at Barcode_Keyence.Form1.button_close_Click(Object sender, EventArgs e) in D:\Work\BarcodeRunning-master\BarcodeRunning-master\Barcode_Keyence\Barcode_Keyence\Form1.cs:line 357
+   at 11-09-2015 01:36:41:177
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Keyence.AutoID.BarcodeReaderControl.Disconnect()
+   at Barcode_Keyence.Form1.button_close_Click(Object sender, EventArgs e) in D:\Work\BarcodeRunning-master\BarcodeRunning-master\Barcode_Keyence\Barcode_Keyence\Form1.cs:line 357
+   at 11-09-2015 01:37:09:561
+Choose One File Storing Type...   at11-Sep-2015 01:37:11:437
+
+Data will be written to C:\Users\TH303898\Desktop\d.csv   at11-Sep-2015 01:37:21:055
+
+Images will be stored to C:\Users\TH303898\Desktop   at11-Sep-2015 01:37:22:655
+
+Date Time Monitor Started...   at11-Sep-2015 01:37:22:662
+
+IP Address is 192.168.1.1
+
+Command Port is 9003
+
+Data Port is 9004
+
+Interface is Ethernet
+
+Reader Type is SR_1000
+
+Keyence.AutoID.CommunicationException: Communication error
+   at Keyence.AutoID.BarcodeReaderControl.Connect()
+   at Barcode_Keyence.Form1.Connect() in D:\Work\BarcodeRunning-master\BarcodeRunning-master\Barcode_Keyence\Barcode_Keyence\Form1.cs:line 240
+   at 11-09-2015 01:37:23:846
+Data will be written to C:\Users\TH303898\Desktop\f.csv   at11-Sep-2015 01:38:42:403
+
+Images will be stored to C:\Users\TH303898\Desktop   at11-Sep-2015 01:38:43:557
+
+IP Address is 192.168.1.1
+
+Command Port is 9003
+
+Data Port is 9004
+
+Interface is Ethernet
+
+Reader Type is SR_1000
+
+Keyence.AutoID.CommunicationException: Communication error
+   at Keyence.AutoID.BarcodeReaderControl.Connect()
+   at Barcode_Keyence.Form1.Connect() in D:\Work\BarcodeRunning-master\BarcodeRunning-master\Barcode_Keyence\Barcode_Keyence\Form1.cs:line 240
+   at 11-09-2015 01:38:44:642
+Data will be written to C:\Users\TH303898\Desktop\f.csv   at11-Sep-2015 01:38:59:363
+
+Images will be stored to C:\Users\TH303898\Desktop   at11-Sep-2015 01:39:01:372
+
+IP Address is 192.168.1.1
+
+Command Port is 9003
+
+Data Port is 9004
+
+Interface is Ethernet
+
+Reader Type is SR_1000
+
+Keyence.AutoID.CommunicationException: Communication error
+   at Keyence.AutoID.BarcodeReaderControl.Connect()
+   at Barcode_Keyence.Form1.Connect() in D:\Work\BarcodeRunning-master\BarcodeRunning-master\Barcode_Keyence\Barcode_Keyence\Form1.cs:line 240
+   at 11-09-2015 01:39:02:429
+Data will be written to C:\Users\TH303898\Desktop\f.csv   at11-Sep-2015 01:39:10:829
+
+Images will be stored to C:\Users\TH303898\Desktop   at11-Sep-2015 01:39:12:123
+
+Date Time Monitor Started...   at11-Sep-2015 01:39:12:131
+
+IP Address is 192.168.1.1
+
+Command Port is 9003
+
+Data Port is 9004
+
+Interface is Ethernet
+
+Reader Type is SR_1000
+
+Keyence.AutoID.CommunicationException: Communication error
+   at Keyence.AutoID.BarcodeReaderControl.Connect()
+   at Barcode_Keyence.Form1.Connect() in D:\Work\BarcodeRunning-master\BarcodeRunning-master\Barcode_Keyence\Barcode_Keyence\Form1.cs:line 240
+   at 11-09-2015 01:39:13:169
+Data will be written to C:\Users\TH303898\Desktop\d.csv   at11-Sep-2015 01:50:02:080
+
+Images will be stored to C:\Users\TH303898\Desktop   at11-Sep-2015 01:50:04:187
+
+Date Time Monitor Started...   at11-Sep-2015 01:50:04:192
+
+IP Address is 192.168.1.1
+
+Command Port is 9003
+
+Data Port is 9004
+
+Interface is Ethernet
+
+Reader Type is SR_1000
+
+Keyence.AutoID.CommunicationException: Communication error
+   at Keyence.AutoID.BarcodeReaderControl.Connect()
+   at Barcode_Keyence.Form1.Connect() in D:\Work\BarcodeRunning-master\BarcodeRunning-master\Barcode_Keyence\Barcode_Keyence\Form1.cs:line 241
+   at 11-09-2015 01:50:05:695
+Data will be written to C:\Users\TH303898\Desktop\d.csv   at11-Sep-2015 01:50:57:252
+
+Images will be stored to C:\Users\TH303898\Desktop   at11-Sep-2015 01:50:58:636
+
+Date Time Monitor Started...   at11-Sep-2015 01:50:58:639
+
+IP Address is 192.168.1.1
+
+Command Port is 9003
+
+Data Port is 9004
+
+Interface is Ethernet
+
+Reader Type is SR_1000
+
+Keyence.AutoID.CommunicationException: Communication error
+   at Keyence.AutoID.BarcodeReaderControl.Connect()
+   at Barcode_Keyence.Form1.Connect() in D:\Work\BarcodeRunning-master\BarcodeRunning-master\Barcode_Keyence\Barcode_Keyence\Form1.cs:line 241
+   at 11-09-2015 01:50:59:698
+Data will be written to C:\Users\TH303898\Desktop\d.csv   at11-Sep-2015 01:53:11:690
+
+Images will be stored to C:\Users\TH303898\Desktop   at11-Sep-2015 01:53:26:638
+
+Date Time Monitor Started...   at11-Sep-2015 01:53:26:641
+
+IP Address is 192.168.1.1
+
+Command Port is 9003
+
+Data Port is 9004
+
+Interface is Ethernet
+
+Reader Type is SR_1000
+
+Keyence.AutoID.CommunicationException: Communication error
+   at Keyence.AutoID.BarcodeReaderControl.Connect()
+   at Barcode_Keyence.Form1.Connect() in D:\Work\BarcodeRunning-master\BarcodeRunning-master\Barcode_Keyence\Barcode_Keyence\Form1.cs:line 241
+   at 11-09-2015 01:53:27:703
+Data will be written to C:\Users\TH303898\Desktop\d.csv   at11-Sep-2015 02:12:44:329
+
+Images will be stored to C:\Users\TH303898\Desktop   at11-Sep-2015 02:12:45:707
+
+IP Address is 192.168.1.1
+
+Command Port is 9003
+
+Data Port is 9004
+
+Interface is Ethernet
+
+Reader Type is SR_1000
+
+Keyence.AutoID.CommunicationException: Communication error
+   at Keyence.AutoID.BarcodeReaderControl.Connect()
+   at Barcode_Keyence.Form1.Connect() in D:\Work\BarcodeRunning-master\BarcodeRunning-master\Barcode_Keyence\Barcode_Keyence\Form1.cs:line 245
+   at 11-09-2015 02:12:51:769
+Data will be written to C:\Users\TH303898\Desktop\d.csv   at11-Sep-2015 02:14:39:163
+
+Images will be stored to C:\Users\TH303898\Desktop   at11-Sep-2015 02:14:40:299
+
+IP Address is 192.168.1.1
+
+Command Port is 9003
+
+Data Port is 9004
+
+Interface is Ethernet
+
+Reader Type is SR_1000
+
+Keyence.AutoID.CommunicationException: Communication error
+   at Keyence.AutoID.BarcodeReaderControl.Connect()
+   at Barcode_Keyence.Form1.Connect() in D:\Work\BarcodeRunning-master\BarcodeRunning-master\Barcode_Keyence\Barcode_Keyence\Form1.cs:line 245
+   at 11-09-2015 02:14:46:538
